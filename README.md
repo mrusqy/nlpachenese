@@ -16,8 +16,15 @@ pembagian nama-nama file untuk kontributor sebagai berikut;
 11. Fadhilah Syafa --> corpus_Fadhilah_file_10.txt
 
 ## TASK
-menunggu arahan dari prof
+TM #3 Tugas Kelompok
 
+Mahasiswa dibagi dalam 2 kelompok. Setiap kelompok kontribusi 1000 kalimat (1K) bahasa Aceh untuk membesarkan Aceh USK Korpus
+
+Kelompok 1: Buatlah word embedding dari korpus Aceh USK dg TF-IDF (1K)
+
+Kelompok 2: Buatlah word embedding korpus Aceh USK dg Word2Vec (1K)
+
+Due: 25 Oktober 2024, dikirim ke github dan dibahas pada kuliah online
 Reference
 - [AcehX](https://github.com/acehnlu/AcehX)
 - [Corpus_Aceh](https://github.com/zaklabs/Corpus_Aceh)
