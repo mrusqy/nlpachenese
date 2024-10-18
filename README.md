@@ -2,7 +2,7 @@
 a high-quality corpus that covers Acehnese. 
 corpus bahasa aceh 2024
 
-pembagian nama-nama file untuk kontributor sebagai berikut;
+pembagian nama-nama file untuk kontributor sebagai berikut:
 Kelompok I :
 1. Muhammad Ruski --> corpus_Ruski_file_0.txt
 2. Doni Sumito Sukiswo --> corpus_Doni_file_1.txt
