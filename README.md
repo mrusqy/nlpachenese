@@ -3,7 +3,8 @@ a high-quality corpus that covers Acehnese.
 corpus bahasa aceh 2024
 
 pembagian nama-nama file untuk kontributor sebagai berikut:
-###Kelompok I :
+
+### Kelompok I :
 1. Muhammad Ruski --> corpus_Ruski_file_0.txt
 2. Doni Sumito Sukiswo --> corpus_Doni_file_1.txt
 3. Habib Asy Muhyi --> corpus_Habib_file_2.txt
@@ -11,7 +12,7 @@ pembagian nama-nama file untuk kontributor sebagai berikut:
 5. ISKANDAR ISKANDAR --> corpus_Iskandar_file_4.txt
 6. Saryulis  --> corpus_Saryulis_file_5.txt
 
-###Kelompok II:
+### Kelompok II:
 1. Nurul Asmi Amalia --> corpus_Nurul_file_6.txt
 2. Hafizha Dini Giandra --> corpus_Hafizha_file_7.txt
 3. Aida Afira --> corpus_Aida_file_8.txt
