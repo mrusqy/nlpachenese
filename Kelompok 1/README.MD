@@ -1,6 +1,6 @@
 ## Kelompok I :
 word embedding dari korpus Aceh USK dg TF-IDF (1K)
-
+![Word Cloud](wordcloud_output.png)
 
    
 ## 🗃️ Contributor
