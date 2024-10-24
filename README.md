@@ -11,6 +11,14 @@ pembagian nama-nama file untuk kontributor sebagai berikut:
 4. Muttaqin --> corpus_Muttaqin_file_3.txt
 5. ISKANDAR ISKANDAR --> corpus_Iskandar_file_4.txt
 6. Saryulis  --> corpus_Saryulis_file_5.txt
+   
+## 🗃️ Contributor
+
+|     |                                                                 File                                                                  |                                           Github                                           | Additional Learning                                                            |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
+| 00  |                                 corpus_Ruski_file_0.txt                                 |                     [Ruski](https://github.com/mrusqy)                       | [Learn More] |
+| 01  |               corpus_Doni_file_1.txt                |    [Doni](https://github.com/donisumito)    | [Learn More] |
+
 
 ### Kelompok II:
 1. Nurul Asmi Amalia --> corpus_Nurul_file_6.txt
