@@ -1,4 +1,6 @@
 ## Kelompok I :
+
+[![Gem Version](https://badge.fury.io/rb/tf-idf-similarity.svg)](https://pypi.org/project/tfidf/) 
 word embedding dari korpus Aceh USK dg TF-IDF (1K)
 ![Word Cloud](wordcloud_output.png)
 
