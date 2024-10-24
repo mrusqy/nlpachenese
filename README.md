@@ -28,15 +28,15 @@ pembagian nama-nama file untuk kontributor sebagai berikut:
 | :-: | :------------------: | :------------------: | ------------------------------------------------------------------------------ |
 | 00  |    corpus_Ruski_file_0.txt        |    [Ruski](https://github.com/mrusqy)                | [Learn More] |
 | 01  |    corpus_Doni_file_1.txt         |    [Doni](https://github.com/donisumito)    | [Learn More] |
-| 02  |    corpus_Habib_file_2.txt        |    [Habib]((https://github.com/habibasymuhyi))    | [Learn More] |
-| 03  |    corpus_Muttaqin_file_3.txt     |    [Muttaqin](https://github.com/donisumito)    | [Learn More] |
-| 04  |    corpus_Iskandar_file_4.txt     |    [Iskandar](https://github.com/donisumito)    | [Learn More] |
-| 05  |    corpus_Saryulis_file_5.txt     |    [Saryulis](https://github.com/donisumito)    | [Learn More] |
-| 06  |    corpus_Nurul_file_6.txt        |    [Nurul](https://github.com/donisumito)    | [Learn More] |
-| 07  |    corpus_Hafizha_file_7.txt      |    [Hafizha](https://github.com/donisumito)    | [Learn More] |
-| 08  |    corpus_Aida_file_8.txt         |    [Aida](https://github.com/donisumito)    | [Learn More] |
-| 09  |    corpus_Maria_file_9.txt        |    [Maria](https://github.com/donisumito)    | [Learn More] |
-| 10  |    corpus_Fadhilah_file_10.txt    |    [Fadhillah](https://github.com/donisumito)    | [Learn More] |
+| 02  |    corpus_Habib_file_2.txt        |    [Habib]((https://github.com/habibasymuhyi))   | [Learn More] |
+| 03  |    corpus_Muttaqin_file_3.txt     |    [Muttaqin](https://github.com/muttaqinavg)    | [Learn More] |
+| 04  |    corpus_Iskandar_file_4.txt     |    [Iskandar](https://github.com/Linggeh)    | [Learn More] |
+| 05  |    corpus_Saryulis_file_5.txt     |    [Saryulis](https://github.com/saryulis137)    | [Learn More] |
+| 06  |    corpus_Nurul_file_6.txt        |    [Nurul](https://github.com/naamalia23)    | [Learn More] |
+| 07  |    corpus_Hafizha_file_7.txt      |    [Hafizha](https://github.com/hafizhadg)    | [Learn More] |
+| 08  |    corpus_Aida_file_8.txt         |    [Aida](https://github.com/aafira)    | [Learn More] |
+| 09  |    corpus_Maria_file_9.txt        |    [Maria](https://github.com/Maria-Ulfa77)    | [Learn More] |
+| 10  |    corpus_Fadhilah_file_10.txt    |    [Fadhillah](https://github.com/Fadhilah20Syafa)    | [Learn More] |
 
 
 
